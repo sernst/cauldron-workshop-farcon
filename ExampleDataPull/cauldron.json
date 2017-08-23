@@ -1,0 +1,11 @@
+{
+  "author": "",
+  "id": "ExampleDataPull",
+  "name": "ExampleDataPull",
+  "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
+  "steps": [
+    "S01-Pull.py"
+  ],
+  "summary": "",
+  "title": "ExampleDataPull"
+}
